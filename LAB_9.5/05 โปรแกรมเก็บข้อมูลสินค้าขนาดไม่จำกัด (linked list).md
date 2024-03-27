@@ -12,7 +12,7 @@ Good1
 Good2  
 Total = 2  
 
-**ตัวอย่าง 2**
+**ตัวอย่าง 2**  
 Name: Lay  
 Name: Pepsi  
 Name: Fanta  
